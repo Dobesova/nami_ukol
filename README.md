@@ -1,2 +1,2 @@
 # nami_ukol 
-Tento repozitář jsem založila jsednoho památného chladného pátečního večera na základě pokynů v úloze číslo osm. 
+Tento repozitář jsem založila jednoho památného a chladného pátečního večera na základě pokynů v úloze číslo osm. 
